@@ -1,0 +1,21 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    color: #151515;
+    font-family: 'Source Sans Pro', serif;
+    background-color: #FAFAFA;
+    margin: 0;
+    background-color: antiquewhite;
+}
+.container{
+    width:90%;
+    text-align: center;
+}
+
+.header{
+   
+.name{
+    margin-top:0;
+}
